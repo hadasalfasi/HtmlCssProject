@@ -1,0 +1,43 @@
+#a{
+    font-size: 88px;
+    text-align: center;
+    padding-top: 16%;
+    animation: a 2s infinite;
+}
+body{
+    font-family: system-ui;
+   
+    
+}
+#b{
+    padding: 2%;
+    text-align: center;
+    font-size: xx-large
+}
+@keyframes a {
+    0%{
+        color: black;
+    }
+    15%{
+        color: black;
+    }
+    20%{
+        color: crimson;
+        font-size: 95px;
+    }
+    80%{
+        color: crimson;
+        font-size: 95px;
+    }
+    83%{
+        color: black;
+    }
+    98%{
+        color: black;
+    }
+}
+a{
+    color: black;
+    font-size: larger;
+    padding-left: 48%;
+}

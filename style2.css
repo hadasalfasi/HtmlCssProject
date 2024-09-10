@@ -1,0 +1,205 @@
+#firstnat {
+    position: fixed;
+    display: flex;
+    width: 100%;
+    color: rgb(32, 29, 29);
+    top: 0px;
+    justify-content: space-between;
+    background-color: white;
+    z-index: 2;
+
+}
+
+.nav {
+    display: flex;
+    width: 55%;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+
+.nav1 {
+    display: flex;
+    width: 22%;
+    justify-content: space-between;
+    margin-left: 2%;
+    
+}
+#wheel{
+    font-size: x-large;
+}
+.date {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    line-height: 27px;
+}
+
+.a {
+    line-height: 62px;
+    color: rgb(32, 29, 29);
+    text-decoration: none;
+}
+
+.nav3 {
+    margin-right: 2%;
+    height: 40px;
+    color: #076fd5;
+    
+    border-radius: 10%;
+    border-color: #076fd5;
+    margin-top: 0.5%;
+
+}
+
+.nav2 {
+    display: flex;
+    height: 59%;
+    margin-top: 3%;
+}
+#join{
+    text-decoration: none;
+    background-color: #d90d0d;
+    padding: 3px;
+    padding-left: 34px;
+    padding-right: 34px;
+    margin-top: 19px;
+    color: white;
+    font-weight: 600;
+    height: 19px;
+    border-radius: 21px;
+}
+#help{
+    background-image: url(תמיכה\ טכנית.jpg);
+    font-size: 470%;
+    margin-top: 65px;
+    color: white;
+    text-align: center;
+    height: 215px;
+    font-family: system-ui;
+    display: flex;
+   
+    align-items: center;
+    font-weight: bold;
+    justify-content: space-evenly;
+   
+}
+#lbuttem{
+    background-color: rgba(25,24,24,.788235294117647);;  
+    text-align: center;
+    color: white;
+    font-family: system-ui;
+}
+#fbuttem{
+    text-align: center;
+    color: #216896;
+    line-height: 45px;
+    font-family: system-ui;
+}
+
+#b{
+   
+    font-size: 30px;
+    font-weight: bold;
+}
+#c{
+    font-weight: bold;
+    padding-bottom: 2%;
+    font-size: large;
+}
+.navl{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    width: 70%;
+    margin-left: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.navLast{
+    color: white;
+    font-size: x-large;
+}
+.navl,a{
+    text-decoration: none;
+}
+#d{
+    font-size: 56px;
+    font-weight: bold;
+}
+#e{
+    font-size: xx-large;
+    font-weight: 600;
+}
+#f{
+    font-size: x-large;
+}
+.a1{
+    display: flex;
+}
+#help{
+    background-image: url(תמיכה\ טכנית.jpg);
+    background-size: cover;
+    height: 249px;
+    color: white;
+    
+    font-size: 78px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    font-weight: bold;
+}
+/* #tmiha :nth-child(even){
+    background-color: rgb(139, 158, 165);
+}
+#tmiha :nth-child(odd){
+    background-color: rgb(255, 255, 255);
+} */
+.f{
+    background-color: #eaf0f4;
+}
+li{
+    list-style-type: disclosure-closed;
+   
+}
+#weel{
+    box-shadow: 0 0 5px 1px grey;
+}
+.a{
+    padding: 2%;
+    display: flex;
+   
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    line-height: 29px;
+}
+.aa{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-weight: bold;
+}
+.aaa{
+    color: brown;
+    font-weight: bold;
+    font-size: 118%;
+}
+#aa{
+    color: cornflowerblue;
+}
+.ac{
+width: 35%;
+font-size: 18px;
+}
+.fa-caret-right::before {
+   content: icon;
+}
+#texta{
+    font-family: system-ui;
+
+}
